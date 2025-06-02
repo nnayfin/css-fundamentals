@@ -1,19 +1,19 @@
 body{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: larger;
+    font-size: 80%;
     color:black;
     text-align: center;
     font-weight: 900;
     background-color: lavenderblush;
-    padding: 50px;
+    padding: 30px;
     margin: 0;
 }
 
 
 form{
     background-color: lightblue;
-    padding: 40px;
-    border-radius: 100px;
+    padding: 30px;
+    border-radius: 90px;
     border: 3px solid black;
     width: 400px;
     margin: 0 auto;
@@ -21,7 +21,7 @@ form{
 
 
 h1{
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 600;
     text-align: center;
 }
@@ -72,13 +72,14 @@ form label{
     color: darkslateblue;
     font-weight: 700;
     line-height: 25px;
+    font-size: large;
 }
 
 footer{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 15px;
+    font-size: 10px;
     text-align: center;
     font-weight: 400;
-    margin-bottom: -50px;
+    margin-bottom: -40px;
 
 }
